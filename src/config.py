@@ -1,4 +1,4 @@
-map_barrios = './utils/maps/barrios.shp'
+map_barrios = './utils/maps/Barrios/barrios.shp'
 
 path_df_LV = '../Data/Fuentes/LV/df_LV.csv'
 path_df_ML = '../Data/Fuentes/ML/df_ML.csv'
