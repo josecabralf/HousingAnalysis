@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>EscuelaMunicipal</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1 1 <br> Capa ESCUELA MUNICIPAL <br> NOMBRE_DEL Escuela Gob. José A. Ceballos <br> Direccion J. Frank 5541 <br> lat -31.465355 <br> long -64.082131 <br> Barrio (dato oficial) ITUZAINGO ANEXO <br> CUE 1402439 <br> CUE anexo 140243900 <br> ICSE 0.342626 <br> Contacto 3514338753 <br> Área CPC Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.082131,-31.465355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   2    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Ernesto Molinari Romero    <br>   Direccion   Pampayasta 2640    <br>   lat   -31.449714    <br>   long   -64.162441    <br>   Barrio (dato oficial)   OÑA    <br>   CUE   1403326    <br>   CUE anexo   140332600    <br>   ICSE   0.144133    <br>   Contacto   3514334358    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.162441,-31.449714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   3    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Antonio Sobral    <br>   Direccion   Calle Pública s/n    <br>   lat   -31.4035    <br>   long   -64.13217    <br>   Barrio (dato oficial)   PARQUE DEL ESTE    <br>   CUE   1404735    <br>   CUE anexo   140473500    <br>   ICSE   0.050118    <br>   Contacto   4339122/27-29    <br>   Área CPC   <Nulo>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.13217,-31.4035,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   4    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Gob. Dr.  Santiago del Castillo    <br>   Direccion   Octaviano Navarro 2575    <br>   lat   -31.439193    <br>   long   -64.222552    <br>   Barrio (dato oficial)   AMPLIACION ROSEDAL    <br>   CUE   1400488    <br>   CUE anexo   140048800    <br>   ICSE   0.259932    <br>   Contacto   3514333319    <br>   Área CPC   Ruta 20]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.222552,-31.439193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   5    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Int. Dr. Ramón B. Mestre    <br>   Direccion   Pje Matheu 5030    <br>   lat   -31.41862    <br>   long   -64.121648    <br>   Barrio (dato oficial)   RENACIMIENTO    <br>   CUE   1401745    <br>   CUE anexo   140174500    <br>   ICSE   0.33673    <br>   Contacto   3514338564    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.121648,-31.41862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   6    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Gob. Dr. Justo Páez Molina    <br>   Direccion   Quebracho Herrado 200    <br>   lat   -31.401332    <br>   long   -64.243568    <br>   Barrio (dato oficial)   AMPLIACION LAS PALMAS    <br>   CUE   1403080    <br>   CUE anexo   140308000    <br>   ICSE   0.175532    <br>   Contacto   3514337317    <br>   Área CPC   Colón]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.243568,-31.401332,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   7    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Mutualismo Argentino    <br>   Direccion   Antonio Arcos 3157    <br>   lat   -31.375959    <br>   long   -64.194159    <br>   Barrio (dato oficial)   SARGENTO CABRAL    <br>   CUE   1403975    <br>   CUE anexo   140397500    <br>   ICSE   0.265198    <br>   Contacto   3514335426    <br>   Área CPC   Monseñor Pablo Cabrera]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.194159,-31.375959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   8    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Ing. Juan Masjoán    <br>   Direccion   Ca 2 y De los Sicilianos    <br>   lat   -31.339528    <br>   long   -64.220195    <br>   Barrio (dato oficial)   LOS BOULEVARES    <br>   CUE   1400772    <br>   CUE anexo   140077200    <br>   ICSE   0.195673    <br>   Contacto   4335422/5127    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.220195,-31.339528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   9    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Pte. Dr. Arturo Iilia    <br>   Direccion   Martín de Maguna 2755    <br>   lat   -31.447728    <br>   long   -64.139281    <br>   Barrio (dato oficial)   JOSE IGNACIO DIAZ 3A SECCION    <br>   CUE   1402440    <br>   CUE anexo   140244000    <br>   ICSE   0.300831    <br>   Contacto   3514338563    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.139281,-31.447728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   10    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Carlos F. Ordoñez    <br>   Direccion   CASABLANCA 2701    <br>   lat   -31.479095    <br>   long   -64.228553    <br>   Barrio (dato oficial)   SANTA ISABEL 2A SECCION    <br>   CUE   1401170    <br>   CUE anexo   140117000    <br>   ICSE   0.263146    <br>   Contacto   3514333330    <br>   Área CPC   Villa El Libertador]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.228553,-31.479095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   11    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Emilio B. Lazcano    <br>   Direccion   HUMBERTO 1° 4600    <br>   lat   -31.391979    <br>   long   -64.240204    <br>   Barrio (dato oficial)   VILLA GENERAL URQUIZA    <br>   CUE   1400955    <br>   CUE anexo   140095500    <br>   ICSE   0.361671    <br>   Contacto   4337336/4337315    <br>   Área CPC   Colón]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.240204,-31.391979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   12    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Julio González    <br>   Direccion   El Crespín s/n    <br>   lat   -31.36901    <br>   long   -64.060979    <br>   Barrio (dato oficial)   GENERAL ARENALES    <br>   CUE   1403613    <br>   CUE anexo   140361300    <br>   ICSE   0.317412    <br>   Contacto   3514997932    <br>   Área CPC   Rancagua]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.060979,-31.36901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   13    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Pedro C. Carro    <br>   Direccion   Enrique Martinez Paz 80    <br>   lat   -31.366646    <br>   long   -64.172101    <br>   Barrio (dato oficial)   MARCELO T. DE ALVEAR    <br>   CUE   1402599    <br>   CUE anexo   140259900    <br>   ICSE   0.172359    <br>   Contacto   3514335113    <br>   Área CPC   Centro América]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.172101,-31.366646,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   14    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Alfredo Orgaz    <br>   Direccion   JULIAN LAGUNA 2600    <br>   lat   -31.372353    <br>   long   -64.134276    <br>   Barrio (dato oficial)   PATRICIOS    <br>   CUE   1402936    <br>   CUE anexo   140293600    <br>   ICSE   0.413847    <br>   Contacto   3514335425 / 4335117    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.134276,-31.372353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   15    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Domingo F. Sarmiento    <br>   Direccion   Abarca y Velazco 5267    <br>   lat   -31.457464    <br>   long   -64.128705    <br>   Barrio (dato oficial)   23 DE ABRIL    <br>   CUE   1400160    <br>   CUE anexo   140016000    <br>   ICSE   0.344061    <br>   Contacto   3514338627    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.128705,-31.457464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   16    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Ángel Gastaldi    <br>   Direccion   San Jerónimo 5550    <br>   lat   -31.42425    <br>   long   -64.11565    <br>   Barrio (dato oficial)   COLONIA LOLA    <br>   CUE   1400757    <br>   CUE anexo   140075700    <br>   ICSE   0.326827    <br>   Contacto   3514338565    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.11565,-31.42425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   17    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Arsenio Murugarren    <br>   Direccion   Amadeo Grass 4273    <br>   lat   -31.357343    <br>   long   -64.229102    <br>   Barrio (dato oficial)   SANTA CECILIA    <br>   CUE   1400774    <br>   CUE anexo   140077400    <br>   ICSE   0.161667    <br>   Contacto   4338403/4338407    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.229102,-31.357343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   18    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Oscar Soto López    <br>   Direccion   Los Caldenes 5320    <br>   lat   -31.461962    <br>   long   -64.098213    <br>   Barrio (dato oficial)   LOS SAUCES    <br>   CUE   1402228    <br>   CUE anexo   140222800    <br>   ICSE   0.231334    <br>   Contacto   3514338754    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.098213,-31.461962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   19    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Luz Vieira Méndez    <br>   Direccion   AV KINGSLEY 1201    <br>   lat   -31.424596    <br>   long   -64.246733    <br>   Barrio (dato oficial)   RESIDENCIAL SAN ROQUE    <br>   CUE   1403454    <br>   CUE anexo   140345400    <br>   ICSE   0.389791    <br>   Contacto   3514333337    <br>   Área CPC   Ruta 20]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.246733,-31.424596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   20    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Gob. Dr. Amadeo Sabatin    <br>   Direccion   Diego Pacheco 4980    <br>   lat   -31.456549    <br>   long   -64.133586    <br>   Barrio (dato oficial)   SAN FELIPE    <br>   CUE   1400158    <br>   CUE anexo   140015800    <br>   ICSE   0.298899    <br>   Contacto   3514338626    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.133586,-31.456549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   21    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Jorge Orgaz    <br>   Direccion   Laguna larga 8900    <br>   lat   -31.319713    <br>   long   -64.293371    <br>   Barrio (dato oficial)   VILLA RIVERA INDARTE    <br>   CUE   1400274    <br>   CUE anexo   140027400    <br>   ICSE   0.144498    <br>   Contacto   <Nulo>    <br>   Área CPC   Rancagua]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.293371,-31.319713,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   22    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Gob. Brig San Martín    <br>   Direccion   Trenque Lauquen 3200    <br>   lat   -31.444818    <br>   long   -64.15609    <br>   Barrio (dato oficial)   JOSE HERNANDEZ    <br>   CUE   1401251    <br>   CUE anexo   140125100    <br>   ICSE   0.132258    <br>   Contacto   4338574/4338639    <br>   Área CPC   Empalme]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.15609,-31.444818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   23    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Maestro Manuel Oliva    <br>   Direccion   GABRIEL TOMASSINI 6951    <br>   lat   -31.318993    <br>   long   -64.258339    <br>   Barrio (dato oficial)   MERCANTIL    <br>   CUE   1402411    <br>   CUE anexo   140241100    <br>   ICSE   0.121112    <br>   Contacto   3543449425 / 4339425    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.258339,-31.318993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   24    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Raúl Fernández    <br>   Direccion   Cruz Alta 8500    <br>   lat   -31.313766    <br>   long   -64.284436    <br>   Barrio (dato oficial)   VILLA ALLENDE PARQUE    <br>   CUE   1400745    <br>   CUE anexo   140074500    <br>   ICSE   0.249641    <br>   Contacto   3543439690    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.284436,-31.313766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   25    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Juan B. Justo    <br>   Direccion   Igualdad 4100    <br>   lat   -31.39285    <br>   long   -64.231187    <br>   Barrio (dato oficial)   VILLA SIBURU    <br>   CUE   1403435    <br>   CUE anexo   140343500    <br>   ICSE   0.380143    <br>   Contacto   4337316/7335    <br>   Área CPC   Colón]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.231187,-31.39285,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   26    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Carlos Becerra    <br>   Direccion   JUAN GAONA 1268    <br>   lat   -31.421415    <br>   long   -64.232235    <br>   Barrio (dato oficial)   LOS PLATANOS    <br>   CUE   1400006    <br>   CUE anexo   140000600    <br>   ICSE   0.13505    <br>   Contacto   4337318/4337334    <br>   Área CPC   Ruta 20]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.232235,-31.421415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   27    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Estado de Libia    <br>   Direccion   Gaiman 2130 y Colorado    <br>   lat   -31.488665    <br>   long   -64.235221    <br>   Barrio (dato oficial)   EL CABILDO    <br>   CUE   1404108    <br>   CUE anexo   140410800    <br>   ICSE   0.284897    <br>   Contacto   3514333322    <br>   Área CPC   Villa El Libertador]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.235221,-31.488665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   28    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Juan A. Paredes    <br>   Direccion   Francisco del Prado 3900    <br>   lat   -31.362908    <br>   long   -64.150484    <br>   Barrio (dato oficial)   GENERAL MOSCONI    <br>   CUE   1402603    <br>   CUE anexo   140260300    <br>   ICSE   0.409678    <br>   Contacto   4335421/5114    <br>   Área CPC   Rancagua]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.150484,-31.362908,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   29    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Horacio García    <br>   Direccion   Tabacue 9150    <br>   lat   -31.316514    <br>   long   -64.26701    <br>   Barrio (dato oficial)   POLICIAL    <br>   CUE   1402828    <br>   CUE anexo   140282800    <br>   ICSE   0.240821    <br>   Contacto   03543-339426    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.26701,-31.316514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   30    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Azor Grimaut    <br>   Direccion   Sobremonte 6100    <br>   lat   -31.485031    <br>   long   -64.215396    <br>   Barrio (dato oficial)   VALLE CERCANO    <br>   CUE   1403264    <br>   CUE anexo   140326400    <br>   ICSE   0.460351    <br>   Contacto   4333323/3201    <br>   Área CPC   Villa El Libertador]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.215396,-31.485031,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   31    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Alicia Moreau    <br>   Direccion   Pilcomayo 5100    <br>   lat   -31.470465    <br>   long   -64.216214    <br>   Barrio (dato oficial)   VILLA EL LIBERTADOR    <br>   CUE   1402262    <br>   CUE anexo   140226200    <br>   ICSE   0.483917    <br>   Contacto   3514333325    <br>   Área CPC   Villa El Libertador]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.216214,-31.470465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   32    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Dr. Raúl V. Martínez    <br>   Direccion   NILO PECANNA 7750    <br>   lat   -31.34099    <br>   long   -64.268284    <br>   Barrio (dato oficial)   ALBORADA (N)    <br>   CUE   1402776    <br>   CUE anexo   140277600    <br>   ICSE   0.106164    <br>   Contacto   3543449423    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.268284,-31.34099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   33    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela República de Italia    <br>   Direccion   Realicó 1580    <br>   lat   -31.467295    <br>   long   -64.233346    <br>   Barrio (dato oficial)   CONGRESO    <br>   CUE   1403630    <br>   CUE anexo   140363000    <br>   ICSE   0.245951    <br>   Contacto   4333338/3202    <br>   Área CPC   Villa El Libertador]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.233346,-31.467295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   34    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Saúl Taborda    <br>   Direccion   Coquena 7900 y Charrúas    <br>   lat   -31.32882    <br>   long   -64.273485    <br>   Barrio (dato oficial)   VILLA 9 DE JULIO    <br>   CUE   1401317    <br>   CUE anexo   140131700    <br>   ICSE   0.342092    <br>   Contacto   03543-4339424    <br>   Área CPC   Argüello]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.273485,-31.32882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   35    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Jorge Luis Borges    <br>   Direccion   Barranca del Paraná 3193    <br>   lat   -31.373654    <br>   long   -64.132052    <br>   Barrio (dato oficial)   QUINTAS DE SAN JORGE    <br>   CUE   1401624    <br>   CUE anexo   140162400    <br>   ICSE   0.430193    <br>   Contacto   3514335116    <br>   Área CPC   Rancagua]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.132052,-31.373654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   36    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Int. Dr. Donato Latella Frías    <br>   Direccion   Díaz Vélez 2500    <br>   lat   -31.367846    <br>   long   -64.135078    <br>   Barrio (dato oficial)   PATRICIOS ESTE    <br>   CUE   1401630    <br>   CUE anexo   140163000    <br>   ICSE   0.263735    <br>   Contacto   3514335115    <br>   Área CPC   Rancagua]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.135078,-31.367846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1   37    <br>   Capa   ESCUELA MUNICIPAL    <br>   NOMBRE_DEL   Escuela Gob. Dr. Arturo Zanichelli    <br>   Direccion   Alfonsina Storni 1300    <br>   lat   -31.357178    <br>   long   -64.156415    <br>   Barrio (dato oficial)   PARQUE LICEO 3A SECCION    <br>   CUE   1400016    <br>   CUE anexo   140001600    <br>   ICSE   0.301168    <br>   Contacto   4991921/4331921    <br>   Área CPC   Rancagua]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.156415,-31.357178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1 38 <br> Capa ESCUELA MUNICIPAL <br> NOMBRE_DEL Escuela Dr. Cesar E. Romero <br> Direccion El Dorado 6052 <br> lat -31.454703 <br> long -64.263641 <br> Barrio (dato oficial) SACCHI <br> CUE 1402264 <br> CUE anexo 140226400 <br> ICSE 0.398526 <br> Contacto 3514333321 <br> Área CPC Villa El Libertador]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.263641,-31.454703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[OBJECTID_1 39<br>Capa ESCUELA MUNICIPAL<br>NOMBRE_DEL Escuela Escuela Dr. Antonio Sobral<br>Direccion Camino Chacra de la Merced Km 4 1/2<br>lat -31.4040390<br>long -64.1321560<br>Barrio (dato oficial) Barrio Parque del Este (Ex Sangre y Sol)<br>CUE <br>CUE anexo <br>ICSE <br>Contacto <br>Área ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -64.1319312,-31.4023451,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

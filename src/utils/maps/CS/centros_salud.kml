@@ -1,0 +1,4285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Dependencias</name>
+    <description/>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Dependencias.xlsx</name>
+      <Placemark>
+        <name>CS N° 001 - General Mosconi</name>
+        <description><![CDATA[Numero: 1<br>Direccion: Calle Pedro Naon 1330<br>Atencion: Atención 7 - 21 hs<br>Telefono: TE: 4335102 / 5428<br>Longitud: -64.149057<br>Latitud: -31.3648<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>1.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Pedro Naon 1330</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 - 21 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335102 / 5428</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.149057</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.3648</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.149057,-31.3648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 002 - Los Sauces</name>
+        <description><![CDATA[Numero: 2<br>Direccion: Calle Algarrobo 351 esq. Espinillos<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4338516<br>Longitud: -64.099324<br>Latitud: -31.46223<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>2.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Algarrobo 351 esq. Espinillos</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338516</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.099324</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.46223</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.099324,-31.46223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 003 - Los Pinos</name>
+        <description><![CDATA[Numero: 3<br>Direccion: Calle Los Nogales 3786 (entre M.J. Duran y Rawson)<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4339101<br>Longitud: -64.140914<br>Latitud: -31.39212<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>3.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Los Nogales 3786 (entre M.J. Duran y Rawson)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4339101</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.140914</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.39212</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.140914,-31.39212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 004 - Nueva Italia</name>
+        <description><![CDATA[Numero: 4<br>Direccion: Calle Jose de Quevedo esq. Dos Barrios<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4335123<br>Longitud: -64.142765<br>Latitud: -31.381934<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>4.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Jose de Quevedo esq. Dos Barrios</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335123</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.142765</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.381934</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.142765,-31.381934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 005 - Yofre Norte</name>
+        <description><![CDATA[Numero: 5<br>Direccion: Calle Rene de Clairac 1875<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4339103<br>Longitud: -64.130464<br>Latitud: -31.38667<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>5.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Rene de Clairac 1875</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4339103</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.130464</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.38667</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.130464,-31.38667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 006 - Villa Rivera Indarte</name>
+        <description><![CDATA[Numero: 6<br>Direccion: Calle Chamico y Reartes<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 03543-449420<br>Longitud: -64.297292<br>Latitud: -31.328122<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>6.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Chamico y Reartes</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-449420</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.297292</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.328122</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.297292,-31.328122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 007 - Pueyrredón</name>
+        <description><![CDATA[Numero: 7<br>Direccion: CallePasaje Urtubey esq. Faray Bracco<br>Atencion: Atención 7 a 15 hs<br>Telefono: TE: 4339135 / 9109<br>Longitud: -64.154813<br>Latitud: -31.400302<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>7.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>CallePasaje Urtubey esq. Faray Bracco</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4339135 / 9109</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.154813</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.400302</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.154813,-31.400302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 008 - Acosta</name>
+        <description><![CDATA[Numero: 8<br>Direccion: Calle Corrientes esq. Rio Parana<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4338551<br>Longitud: -64.130083<br>Latitud: -31.427812<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>8.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Corrientes esq. Rio Parana</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338551</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.130083</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.427812</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.130083,-31.427812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 009 - Alberdi Oeste</name>
+        <description><![CDATA[Numero: 9<br>Direccion: Calle Dr. Pedro Chutro<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4337309<br>Longitud: -64.213926<br>Latitud: -31.404899<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>9.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Dr. Pedro Chutro</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337309</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.213926</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.404899</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.213926,-31.404899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 010 - Colonia Lola</name>
+        <description><![CDATA[Numero: 10<br>Direccion: Calle Lola Mora 1324<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4338763 / 8552<br>Longitud: -64.115186<br>Latitud: -31.424926<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>10.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Lola Mora 1324</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338763 / 8552</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.115186</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.424926</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.115186,-31.424926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 011 - Colóny Crisol</name>
+        <description><![CDATA[Numero: 11<br>Direccion: Calle Tolosa 2564 esq. Acosta<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 4338750 / 60<br>Longitud: -64.164217<br>Latitud: -31.43975<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>11.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Tolosa 2564 esq. Acosta</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338750 / 60</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.164217</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.43975</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.164217,-31.43975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 012 - Ferreyra</name>
+        <description><![CDATA[Numero: 12<br>Direccion: Calle Armas Argentinas 5747<br>Atencion: Atención 24 hs<br>Telefono: TE: 4338630<br>Longitud: -64.108868<br>Latitud: -31.461173<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>12.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Armas Argentinas 5747</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 24 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338630</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.108868</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.461173</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.108868,-31.461173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 013 - Hipolito Yrigoyen</name>
+        <description><![CDATA[Numero: 13<br>Direccion: Calle Avellaneda 3571<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4335435<br>Longitud: -64.186984<br>Latitud: -31.372752<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>13.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Avellaneda 3571</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335435</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.186984</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.372752</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.186984,-31.372752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 014 - General Bustos</name>
+        <description><![CDATA[Numero: 14<br>Direccion: Calle Diagonal IKA 1010<br>Atencion: Atención 7 a 15:30 hs<br>Telefono: TE: 4336003<br>Longitud: -64.163957<br>Latitud: -31.387143<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>14.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Diagonal IKA 1010</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 15:30 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4336003</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.163957</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.387143</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.163957,-31.387143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 015 - Remedios de Escalada</name>
+        <description><![CDATA[Numero: 15<br>Direccion: Calle 5 entre 14 y 15<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4332860/61<br>Longitud: -64.178771<br>Latitud: -31.339123<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>15.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle 5 entre 14 y 15</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4332860/61</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.178771</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.339123</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.178771,-31.339123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 016 - Zumaran</name>
+        <description><![CDATA[Numero: 16<br>Direccion: Calle Sebastian Gaboto 2356<br>Atencion: Atención 7 a 15 hs<br>Telefono: TE: 4335108 / 5438<br>Longitud: -64.205153<br>Latitud: -31.375246<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>16.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Sebastian Gaboto 2356</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335108 / 5438</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.205153</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.375246</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.205153,-31.375246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 017 - Villa Azalaiz Oeste</name>
+        <description><![CDATA[Numero: 17<br>Direccion: Calle Acampes esq. Gerchunoff<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4335109 / 5436<br>Longitud: -64.175209<br>Latitud: -31.36641<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>17.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Acampes esq. Gerchunoff</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335109 / 5436</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.175209</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.36641</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.175209,-31.36641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 018 - San Jorge</name>
+        <description><![CDATA[Numero: 18<br>Direccion: Calle Barrancas del Parana esq. Jose Melian<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 4335103/ 5429<br>Longitud: -64.132154<br>Latitud: -31.374268<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>18.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Barrancas del Parana esq. Jose Melian</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335103/ 5429</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.132154</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.374268</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.132154,-31.374268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 019 - Sargento Cabral</name>
+        <description><![CDATA[Numero: 19<br>Direccion: Calle Francisco Suarez 3170<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4335110 / 5439<br>Longitud: -64.194928<br>Latitud: -31.375731<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>19.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Francisco Suarez 3170</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335110 / 5439</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.194928</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.375731</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.194928,-31.375731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 020 - Las Margaritas</name>
+        <description><![CDATA[Numero: 20<br>Direccion: Calle Herminio Malvino 2662<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4335104 / 5440<br>Longitud: -64.210984<br>Latitud: -31.377368<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>20.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Herminio Malvino 2662</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335104 / 5440</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.210984</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.377368</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.210984,-31.377368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 021 - Marquez de Sobremonte</name>
+        <description><![CDATA[Numero: 21<br>Direccion: Calle Aguilar 5441 esq. Tomas de Irobi<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 4335105/ 5441<br>Longitud: -64.196747<br>Latitud: -31.364883<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>21.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Aguilar 5441 esq. Tomas de Irobi</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335105/ 5441</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.196747</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.364883</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.196747,-31.364883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 022 - Alberdi Sud</name>
+        <description><![CDATA[Numero: 22<br>Direccion: Calle Gavino Blanco 2229 esq. Angel Avalos<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4337310 / 7364<br>Longitud: -64.213613<br>Latitud: -31.412561<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>22.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Gavino Blanco 2229 esq. Angel Avalos</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337310 / 7364</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.213613</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.412561</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.213613,-31.412561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 023 - Rosedal Anexo</name>
+        <description><![CDATA[Numero: 23<br>Direccion: Calle Padre Lozano 2490<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4333302<br>Longitud: -64.22351<br>Latitud: -31.43749<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>23.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Padre Lozano 2490</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333302</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.22351</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.43749</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.22351,-31.43749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 024 - Cupani</name>
+        <description><![CDATA[Numero: 24<br>Direccion: Calle Isaac Albeniz 1454<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4333303 / 3518<br>Longitud: -64.207929<br>Latitud: -31.423763<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>24.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Isaac Albeniz 1454</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333303 / 3518</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.207929</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.423763</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.207929,-31.423763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 025 - San MartÍn</name>
+        <description><![CDATA[Numero: 25<br>Direccion: Calle Paso de Uspallata 991<br>Atencion: Atención 7 a 18 hs (Miercoles 7 a 14 hs)<br>Telefono: TE: 4336021<br>Longitud: -64.196768<br>Latitud: -31.394638<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>25.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Paso de Uspallata 991</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs (Miercoles 7 a 14 hs)</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4336021</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.196768</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.394638</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.196768,-31.394638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 026 - Santa Ana</name>
+        <description><![CDATA[Numero: 26<br>Direccion: Calle Gurruchaga 785<br>Atencion: Atención 7 a 21 hs<br>Telefono: TE: 4337306<br>Longitud: -64.232517<br>Latitud: -31.414465<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>26.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Gurruchaga 785</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 21 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337306</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.232517</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.414465</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.232517,-31.414465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 027 - Pilar</name>
+        <description><![CDATA[Numero: 27<br>Direccion: Calle Tapalque esq. Patagonia<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4338553<br>Longitud: -64.156071<br>Latitud: -31.443944<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>27.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Tapalque esq. Patagonia</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338553</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.156071</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.443944</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.156071,-31.443944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 028 - Las Violetas</name>
+        <description><![CDATA[Numero: 28<br>Direccion: Calle Aviador Locatelli y Formosa<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4337302<br>Longitud: -64.250729<br>Latitud: -31.410755<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>28.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Aviador Locatelli y Formosa</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337302</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.250729</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.410755</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.250729,-31.410755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 029 - Villa Siburu</name>
+        <description><![CDATA[Numero: 29<br>Direccion: Calle Clodomiro Arzac 550<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 4337307<br>Longitud: -64.227643<br>Latitud: -31.39575<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>29.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Clodomiro Arzac 550</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337307</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.227643</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.39575</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.227643,-31.39575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 030 - Villa Paez</name>
+        <description><![CDATA[Numero: 30<br>Direccion: Calle Emilio Conti 1050 esq. Silvestre Remonda<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 4337308<br>Longitud: -64.206803<br>Latitud: -31.397133<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>30.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Emilio Conti 1050 esq. Silvestre Remonda</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337308</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.206803</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.397133</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.206803,-31.397133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 031 - La Salle</name>
+        <description><![CDATA[Numero: 31<br>Direccion: Calle Curaquen 6500<br>Atencion: Atención 7 a 15 hs<br>Telefono: TE: 03543-449427<br>Longitud: -64.275016<br>Latitud: -31.344291<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>31.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Curaquen 6500</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-449427</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.275016</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.344291</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.275016,-31.344291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 032 - Yapeyu</name>
+        <description><![CDATA[Numero: 32<br>Direccion: Calle Loreto 42<br>Atencion: Atención 7 a 20 hs<br>Telefono: TE: 4339110/36<br>Longitud: -64.149583<br>Latitud: -31.41276<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>32.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Loreto 42</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 20 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4339110/36</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.149583</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41276</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.149583,-31.41276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 034 - Villa 9 de Julio</name>
+        <description><![CDATA[Numero: 34<br>Direccion: Calle Coquena 7850 esq. Huarpes<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 03543-449428/22<br>Longitud: -64.271704<br>Latitud: -31.328768<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>34.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Coquena 7850 esq. Huarpes</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-449428/22</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.271704</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.328768</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.271704,-31.328768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS Nº 033 - Argüello</name>
+        <description><![CDATA[Numero: 33<br>Direccion: Av. Ricardo Rojas 6950<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4338335<br>Longitud: -64.25606416<br>Latitud: -31.34019214<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>33.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Av. Ricardo Rojas 6950</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338335</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.25606416</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.34019214</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.25606416,-31.34019214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 035 - Villa Revol</name>
+        <description><![CDATA[Numero: 35<br>Direccion: Calle Chascomus 1750<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4334359/51<br>Longitud: -64.170448<br>Latitud: -31.445921<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>35.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Chascomus 1750</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334359/51</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.170448</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.445921</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.170448,-31.445921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 037 - Jose I. Diaz</name>
+        <description><![CDATA[Numero: 37<br>Direccion: Calle Pedernera 2734 esq. Albornoz<br>Atencion: Atención 7 a 19:00 hs<br>Telefono: TE: 4338758<br>Longitud: -64.140673<br>Latitud: -31.442724<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>37.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Pedernera 2734 esq. Albornoz</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19:00 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338758</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.140673</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.442724</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.140673,-31.442724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 038 - Urquiza</name>
+        <description><![CDATA[Numero: 38<br>Direccion: Calle Miguel de Marmol 2956<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4338555/ 38765<br>Longitud: -64.14785<br>Latitud: -31.439245<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>38.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Miguel de Marmol 2956</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338555/ 38765</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.14785</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.439245</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.14785,-31.439245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 039 - Ferrer</name>
+        <description><![CDATA[Numero: 39<br>Direccion: Calle Bustos y Ferreyra 3100 esq. M. Baigorria<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4334355<br>Longitud: -64.210871<br>Latitud: -31.445241<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>39.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Bustos y Ferreyra 3100 esq. M. Baigorria</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334355</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.210871</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.445241</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.210871,-31.445241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 041 - Villa El Libertador</name>
+        <description><![CDATA[Numero: 41<br>Direccion: Calle Chiclayo 105 (entre Pje. Publico y Defensa)<br>Atencion: Atención de 7 a 19 hs<br>Telefono: TE: 4333211<br>Longitud: -64.214358<br>Latitud: -31.469805<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>41.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Chiclayo 105 (entre Pje. Publico y Defensa)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención de 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333211</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.214358</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.469805</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.214358,-31.469805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 042 - Comercial</name>
+        <description><![CDATA[Numero: 42<br>Direccion: Calle Virgen de Fatima esq. Rio Tercero<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4333312 / 3187<br>Longitud: -64.209587<br>Latitud: -31.484598<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>42.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Virgen de Fatima esq. Rio Tercero</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333312 / 3187</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.209587</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.484598</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.209587,-31.484598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 043 - Guemes</name>
+        <description><![CDATA[Numero: 43<br>Direccion: Calle Bolivar 826<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4334377 / 4366<br>Longitud: -64.194918<br>Latitud: -31.42379<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>43.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Bolivar 826</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334377 / 4366</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.194918</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.42379</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.194918,-31.42379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 044 - Bella Vista</name>
+        <description><![CDATA[Numero: 44<br>Direccion: Calle Alejandro Dumas esq. Venus<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4334281<br>Longitud: -64.208575<br>Latitud: -31.434609<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>44.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Alejandro Dumas esq. Venus</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334281</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.208575</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.434609</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.208575,-31.434609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 045 - Cabo Farina</name>
+        <description><![CDATA[Numero: 45<br>Direccion: Calle Viña del Mar 4651<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4334356 / 4080<br>Longitud: -64.205303<br>Latitud: -31.463756<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>45.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Viña del Mar 4651</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334356 / 4080</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.205303</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.463756</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.205303,-31.463756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 046 - Santa Isabel</name>
+        <description><![CDATA[Numero: 46<br>Direccion: Calle Altos del Tala (Entre Catamarca e Isla Verde)<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4333313<br>Longitud: -64.229615<br>Latitud: -31.479408<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>46.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Altos del Tala (Entre Catamarca e Isla Verde)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333313</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.229615</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.479408</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.229615,-31.479408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 047 - Coronel Olmedo</name>
+        <description><![CDATA[Numero: 47<br>Direccion: Calle Ruiz Huidobro 5848<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4338633<br>Longitud: -64.143159<br>Latitud: -31.478775<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>47.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Ruiz Huidobro 5848</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338633</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.143159</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.478775</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.143159,-31.478775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 048 - Villa Azalaiz Este</name>
+        <description><![CDATA[Numero: 48<br>Direccion: Calle Milan 2960<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4335106 / 5437<br>Longitud: -64.150701<br>Latitud: -31.37525<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>48.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Milan 2960</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335106 / 5437</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.150701</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.37525</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.150701,-31.37525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 040 - Las Flores</name>
+        <description><![CDATA[Numero: 40<br>Direccion: Avenida Armada Agentina 105<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4334353<br>Longitud: -64.202272<br>Latitud: -31.451094<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>40.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Avenida Armada Agentina 105</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334353</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.202272</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.451094</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.202272,-31.451094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 049 - Colinas del Cerro</name>
+        <description><![CDATA[Numero: 49<br>Direccion: Calle Las Acacias esq Ramon Mestre<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4338405<br>Longitud: -64.248691<br>Latitud: -31.379297<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>49.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Las Acacias esq Ramon Mestre</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338405</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.248691</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.379297</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.248691,-31.379297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 050 - Villa Adela</name>
+        <description><![CDATA[Numero: 50<br>Direccion: Calle Gabriela Mistral 4711<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4333304<br>Longitud: -64.248264<br>Latitud: -31.435822<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>50.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Gabriela Mistral 4711</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333304</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.248264</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.435822</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.248264,-31.435822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 051 - Guiñazu</name>
+        <description><![CDATA[Numero: 51<br>Direccion: Calle De la Caja esq. Del Erquencho<br>Atencion: Atención 24 hs<br>Telefono: TE: 4995883<br>Longitud: -64.176877<br>Latitud: -31.313835<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>51.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle De la Caja esq. Del Erquencho</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 24 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4995883</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.176877</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.313835</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.176877,-31.313835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 052 - Villa Urquiza</name>
+        <description><![CDATA[Numero: 52<br>Direccion: Calle Humberto 1º esq. Triunvirato<br>Atencion: Atención 7 a 15 hs<br>Telefono: TE: 4337311 / 7338<br>Longitud: -64.241363<br>Latitud: -31.391963<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>52.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Humberto 1º esq. Triunvirato</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337311 / 7338</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.241363</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.391963</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.241363,-31.391963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 053 - Inaudi</name>
+        <description><![CDATA[Numero: 53<br>Direccion: Calle Teniente Nivoli esq. Fiorito<br>Atencion: Atención Lunes y Miérc. 7 a 18 hs / Martes - Jueves y Viernes 7 a 14 hs<br>Telefono: TE: 4333314<br>Longitud: -64.193448<br>Latitud: -31.47643<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>53.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Teniente Nivoli esq. Fiorito</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención Lunes y Miérc. 7 a 18 hs / Martes - Jueves y Viernes 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333314</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.193448</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.47643</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.193448,-31.47643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS Nº 054 - Los Boulevares</name>
+        <description><![CDATA[Numero: 54<br>Direccion: Calle Bv de Los Hungaros esq Bv. De los Lombardos<br>Atencion: 7 a 14 hs<br>Telefono: TE: 43351442<br>Longitud: -64.217497<br>Latitud: -31.344621<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>54.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Bv de Los Hungaros esq Bv. De los Lombardos</value>
+          </Data>
+          <Data name="Atencion">
+            <value>7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 43351442</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.217497</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.344621</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.217497,-31.344621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 055 - Las Palmas</name>
+        <description><![CDATA[Numero: 55<br>Direccion: Calle Miguel de Sopegna 350<br>Atencion: Atención Lunes - Mierc. y Viernes 7 a 15 hs / Martes y Jueves 7 a 15 hs<br>Telefono: TE: 4337339<br>Longitud: -64.240834<br>Latitud: -31.406385<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>55.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Miguel de Sopegna 350</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención Lunes - Mierc. y Viernes 7 a 15 hs / Martes y Jueves 7 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337339</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.240834</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.406385</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.240834,-31.406385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 056 - Empalme</name>
+        <description><![CDATA[Numero: 56<br>Direccion: Calle Ariza 4800 (entre Samaniego y Pichanas)<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4338561 / 8766<br>Longitud: -64.124231<br>Latitud: -31.432059<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>56.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Ariza 4800 (entre Samaniego y Pichanas)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338561 / 8766</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.124231</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.432059</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.124231,-31.432059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 057 - Arguello I.P.V</name>
+        <description><![CDATA[Numero: 57<br>Direccion: Calle Fermin Martin esq. Alberto Fage<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 03543-449432<br>Longitud: -64.2462816<br>Latitud: -31.3337847<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>57.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Fermin Martin esq. Alberto Fage</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-449432</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2462816</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.3337847</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2462816,-31.3337847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 058 - Maldonado</name>
+        <description><![CDATA[Numero: 58<br>Direccion: Calle Martín Cartechini esq. Blas Parera<br>Atencion: Atención 24hs<br>Telefono: TE: 4338573<br>Longitud: -64.131618<br>Latitud: -31.414486<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>58.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Martín Cartechini esq. Blas Parera</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 24hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338573</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.131618</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.414486</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.131618,-31.414486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 059 - Congreso</name>
+        <description><![CDATA[Numero: 59<br>Direccion: Calle Curazao esq. Ralico<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 4333305<br>Longitud: -64.232624<br>Latitud: -31.467755<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>59.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Curazao esq. Ralico</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333305</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.232624</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.467755</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.232624,-31.467755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 060 - Marquez de Sobremonte Anexo</name>
+        <description><![CDATA[Numero: 60<br>Direccion: Calle Del Molino esq. Del Precursor<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4335122<br>Longitud: -64.190261<br>Latitud: -31.372003<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>60.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Del Molino esq. Del Precursor</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335122</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.190261</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.372003</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.190261,-31.372003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 061 - Cerrito Autodromo</name>
+        <description><![CDATA[Numero: 61<br>Direccion: Calle Domingo Marimon esq Mario Sesarego<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 03543-449421<br>Longitud: -64.248648<br>Latitud: -31.325207<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>61.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Domingo Marimon esq Mario Sesarego</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-449421</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.248648</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.325207</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.248648,-31.325207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 062 - Villa Cornú</name>
+        <description><![CDATA[Numero: 62<br>Direccion: Calle Llanquen entre Quilluamila y Lonconche<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE:<br>Longitud: -64.2701<br>Latitud: -31.313475<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>62.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Llanquen entre Quilluamila y Lonconche</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE:</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2701</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.313475</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2701,-31.313475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 063 - Parque República</name>
+        <description><![CDATA[Numero: 63<br>Direccion: Calle Mariano Rosas esq. Ceferino Namuncura<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4337818<br>Longitud: -64.259353<br>Latitud: -31.415466<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>63.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Mariano Rosas esq. Ceferino Namuncura</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4337818</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.259353</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.415466</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.259353,-31.415466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 064 - Oña / Bialet Massé</name>
+        <description><![CDATA[Numero: 64<br>Direccion: Calle Los Hornillos esq. Cerro Colorado<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4334376<br>Longitud: -64.165108<br>Latitud: -31.452486<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>64.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Los Hornillos esq. Cerro Colorado</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334376</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.165108</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.452486</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.165108,-31.452486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 065 - San Roque</name>
+        <description><![CDATA[Numero: 65<br>Direccion: Calle Guemes (Esq. Kingsley)<br>Atencion: Horario: 7-19 hs<br>Telefono: TE: 4333210 / 3315<br>Longitud: -64.247017<br>Latitud: -31.421891<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>65.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Guemes (Esq. Kingsley)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Horario: 7-19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333210 / 3315</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.247017</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.421891</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.247017,-31.421891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 066 - Mercantil Anexo</name>
+        <description><![CDATA[Numero: 66<br>Direccion: Calle Onofre Marimon y Jose Maria Rosa<br>Atencion: Atención: 7 a 14 hs<br>Telefono: TE: 03543-449430 / 9022<br>Longitud: -64.256233<br>Latitud: -31.32051<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>66.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Onofre Marimon y Jose Maria Rosa</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención: 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-449430 / 9022</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.256233</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.32051</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.256233,-31.32051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 067 - 16 de Noviembre</name>
+        <description><![CDATA[Numero: 67<br>Direccion: Calle Cauque s/n (al lado del Obrador)<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 03543-449431 / 9443<br>Longitud: -64.261726<br>Latitud: -31.313572<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>67.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Cauque s/n (al lado del Obrador)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-449431 / 9443</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.261726</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.313572</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.261726,-31.313572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 068 - Carcano</name>
+        <description><![CDATA[Numero: 68<br>Direccion: Calle De las Altas Cumbres 3830<br>Atencion: Atención: 7 a 14 hs<br>Telefono: TE: 4338500<br>Longitud: -64.144551<br>Latitud: -31.46598<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>68.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle De las Altas Cumbres 3830</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención: 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338500</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.144551</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.46598</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.144551,-31.46598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 069 - General Arenales</name>
+        <description><![CDATA[Numero: 69<br>Direccion: Calle La Pirincha esq. El Crespin<br>Atencion: Atención: 7:30-18:30 hs<br>Telefono: TE: 4997931<br>Longitud: -64.060866<br>Latitud: -31.369312<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>69.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle La Pirincha esq. El Crespin</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención: 7:30-18:30 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4997931</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.060866</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.369312</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.060866,-31.369312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 070 - Estación Flores</name>
+        <description><![CDATA[Numero: 70<br>Direccion: Calle Berlin 3540<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 4333208<br>Longitud: -64.245434<br>Latitud: -31.449076<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>70.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Berlin 3540</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333208</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.245434</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.449076</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.245434,-31.449076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 071 - Cooperativa El Arco</name>
+        <description><![CDATA[Numero: 71<br>Direccion: Calle Av. Sotomayor Esq. Brandan)<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4338631<br>Longitud: -64.1330824<br>Latitud: -31.4521807<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>71.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Av. Sotomayor Esq. Brandan)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338631</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.1330824</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.4521807</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.1330824,-31.4521807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 072 - La Floresta</name>
+        <description><![CDATA[Numero: 72<br>Direccion: Calle Las Orquidias s/n (al lado del Centro Vecinal)<br>Atencion: Atención 8 a 14 hs<br>Telefono: TE: 4997930<br>Longitud: -64.059992<br>Latitud: -31.378005<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>72.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Las Orquidias s/n (al lado del Centro Vecinal)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 8 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4997930</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.059992</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.378005</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.059992,-31.378005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 073 - Parque Futura</name>
+        <description><![CDATA[Numero: 73<br>Direccion: Calle Guanazacate (Esq. Aruba)<br>Atencion: Atención 7 a 14:30 hs<br>Telefono: TE: 4333314<br>Longitud: -64.246765<br>Latitud: -31.483352<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>73.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Guanazacate (Esq. Aruba)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14:30 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333314</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.246765</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.483352</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.246765,-31.483352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 074 - Villa Esquiú</name>
+        <description><![CDATA[Numero: 74<br>Direccion: A. Arturo Capdevila Km 10<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4999910<br>Longitud: -64.105461<br>Latitud: -31.355414<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>74.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>A. Arturo Capdevila Km 10</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4999910</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.105461</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.355414</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.105461,-31.355414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 075 - Cerveceros</name>
+        <description><![CDATA[Numero: 75<br>Direccion: Calle Onofrio Palamara 2825 (entre Reyna y Saavedra)<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4334357 / 4379<br>Longitud: -64.16007<br>Latitud: -31.464296<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>75.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Onofrio Palamara 2825 (entre Reyna y Saavedra)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4334357 / 4379</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.16007</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.464296</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.16007,-31.464296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 076 - Villa Unión</name>
+        <description><![CDATA[Numero: 76<br>Direccion: Calle Tres Cruces (Esq. Cataneo)<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4333332 / 3209<br>Longitud: -64.263116<br>Latitud: -31.421353<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>76.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Tres Cruces (Esq. Cataneo)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333332 / 3209</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.263116</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.421353</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.263116,-31.421353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 077 - Don Bosco</name>
+        <description><![CDATA[Numero: 77<br>Direccion: Calle Juan B. Guerra 6894<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 155395765<br>Longitud: -64.2732491<br>Latitud: -31.3866908<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>77.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Juan B. Guerra 6894</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 155395765</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2732491</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.3866908</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2732491,-31.3866908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 078 - Parque Liceo II Secc.</name>
+        <description><![CDATA[Numero: 78<br>Direccion: Calle Gutierrez Najera 1056 (Esq. Olegario Andrade)<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4332862<br>Longitud: -64.162989<br>Latitud: -31.357558<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>78.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Gutierrez Najera 1056 (Esq. Olegario Andrade)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4332862</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.162989</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.357558</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.162989,-31.357558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 079 - Albert Sabin</name>
+        <description><![CDATA[Numero: 79<br>Direccion: Camino San Antonio Km 7 1/2<br>Atencion: Atención 7 a 18 hs<br>Telefono: TE: 153196086<br>Longitud: -64.189376<br>Latitud: -31.489784<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>79.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Camino San Antonio Km 7 1/2</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 18 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 153196086</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.189376</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.489784</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.189376,-31.489784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 080 - Renacimiento</name>
+        <description><![CDATA[Numero: 80<br>Direccion: Calle Manuel de Oliden 448<br>Atencion: Atención 7:30 a 14.30 hs<br>Telefono: TE: 4338562<br>Longitud: -64.122643<br>Latitud: -31.41547<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>80.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Manuel de Oliden 448</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7:30 a 14.30 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338562</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.122643</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41547</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.122643,-31.41547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 081 - San Lorenzo </name>
+        <description><![CDATA[Numero: 81<br>Direccion: Manuel Padilla 4677<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4338632<br>Longitud: -64.1084924<br>Latitud: -31.455072<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>81.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Manuel Padilla 4677</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338632</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.1084924</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.455072</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.1084924,-31.455072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 082 - Villa Allende Parque</name>
+        <description><![CDATA[Numero: 82<br>Direccion: Calle 15 S/N (entre 18 y 19)<br>Atencion: Atención 7 a 17 hs<br>Telefono: TE: 03543-439691<br>Longitud: -64.283195<br>Latitud: -31.315606<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>82.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle 15 S/N (entre 18 y 19)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 17 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 03543-439691</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.283195</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.315606</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.283195,-31.315606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 083 - Ameghino Norte </name>
+        <description><![CDATA[Numero: 83<br>Direccion: Maria Curie y Gonzalez Albarracín<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4333335<br>Longitud: -64.2392105<br>Latitud: -31.4294856<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>83.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Maria Curie y Gonzalez Albarracín</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333335</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2392105</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.4294856</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2392105,-31.4294856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 084 - Bajo Grande</name>
+        <description><![CDATA[Numero: 84<br>Direccion: Camino a Chacra de la Merced Km 6 1/2<br>Atencion: Atención 8 a 15 hs<br>Telefono: TE: 4339137<br>Longitud: -64.11575<br>Latitud: -31.402825<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>84.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Camino a Chacra de la Merced Km 6 1/2</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 8 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4339137</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.11575</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.402825</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.11575,-31.402825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 085 - Patricios Este</name>
+        <description><![CDATA[Numero: 85<br>Direccion: Heroes de Vilcapujio 3725<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4335133<br>Longitud: -64.136531<br>Latitud: -31.367004<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>85.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Heroes de Vilcapujio 3725</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4335133</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.136531</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.367004</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.136531,-31.367004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 086 - Villa El Libertador</name>
+        <description><![CDATA[Numero: 86<br>Direccion: Calle Barraquilla S/N (entre Mercedes y Pje.Publico ex.12)<br>Atencion: Atención 7 a 16 hs<br>Telefono: TE: 4333512/ 3216<br>Longitud: -64.216515<br>Latitud: -31.480657<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>86.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Barraquilla S/N (entre Mercedes y Pje.Publico ex.12)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 16 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333512/ 3216</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.216515</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.480657</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.216515,-31.480657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 087 - Sachi</name>
+        <description><![CDATA[Numero: 87<br>Direccion: Calle El Dorado 6050<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4333217<br>Longitud: -64.263078<br>Latitud: -31.454728<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>87.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle El Dorado 6050</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333217</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.263078</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.454728</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.263078,-31.454728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 088 - Chacra de la Merced</name>
+        <description><![CDATA[Numero: 88<br>Direccion: Ruta 19 altura Ingreso Malvinas Argentinas<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 156103070<br>Longitud: -64.056988<br>Latitud: -31.383574<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>88.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Ruta 19 altura Ingreso Malvinas Argentinas</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 156103070</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.056988</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.383574</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.056988,-31.383574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 089 - Villa Rivadavia</name>
+        <description><![CDATA[Numero: 89<br>Direccion: Camino a San Antonio Km 8 1/2<br>Atencion: Atención 7 a 15 hs<br>Telefono: TE: 4333228<br>Longitud: -64.190079<br>Latitud: -31.506264<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>89.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Camino a San Antonio Km 8 1/2</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4333228</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.190079</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.506264</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.190079,-31.506264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 090 - Ituzaingo Anexo</name>
+        <description><![CDATA[Numero: 90<br>Direccion: Calle James Frank 5571<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4348527<br>Longitud: -64.082319<br>Latitud: -31.463619<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>90.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle James Frank 5571</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4348527</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.082319</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.463619</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.082319,-31.463619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 091 - Villa Bustos</name>
+        <description><![CDATA[Numero: 91<br>Direccion: Pasaje Ancasti esq. Benjamin Viel<br>Atencion: Atención 7 a 19 hs<br>Telefono: TE: 4338528<br>Longitud: -64.113185<br>Latitud: -31.439264<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>91.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Pasaje Ancasti esq. Benjamin Viel</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 19 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4338528</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.113185</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.439264</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.113185,-31.439264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 092 - Los Cortaderos</name>
+        <description><![CDATA[Numero: 92<br>Direccion: Boulevard de los Polacos y Canal Norte<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE:<br>Longitud: -64.231299<br>Latitud: -31.332388<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>92.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Boulevard de los Polacos y Canal Norte</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE:</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.231299</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.332388</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.231299,-31.332388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 093 - Villa La Tela</name>
+        <description><![CDATA[Numero: 93<br>Direccion: Aviador Almonacid esq. Avdor Zaar<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4343188<br>Longitud: -64.252617<br>Latitud: -31.427766<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>93.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Aviador Almonacid esq. Avdor Zaar</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4343188</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.252617</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.427766</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.252617,-31.427766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 094 - Parque Liceo III Secc.</name>
+        <description><![CDATA[Numero: 94<br>Direccion: Calle Juan Luis Orrego 4735 (Esq. Constancio Vigil)<br>Atencion: Atención 8 a 15 hs<br>Telefono: TE: 4331924<br>Longitud: -64.151718<br>Latitud: -31.356555<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>94.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Juan Luis Orrego 4735 (Esq. Constancio Vigil)</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 8 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4331924</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.151718</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.356555</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.151718,-31.356555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 095 - Camino 60 Cuadras</name>
+        <description><![CDATA[Numero: 95<br>Direccion: Calle Publica Nº 1 Mza. 26 Lote 17<br>Atencion: Atención 8 a 15 hs<br>Telefono: TE: 156107044<br>Longitud: -64.146745<br>Latitud: -31.450687<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>95.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Calle Publica Nº 1 Mza. 26 Lote 17</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 8 a 15 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 156107044</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.146745</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.450687</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.146745,-31.450687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 096 - Jose I.Diaz I Seccion</name>
+        <description><![CDATA[Numero: 96<br>Direccion: Camimo a 60 cuadas Km 3 1/2<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4348520<br>Longitud: -64.148011<br>Latitud: -31.474463<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>96.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Camimo a 60 cuadas Km 3 1/2</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4348520</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.148011</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.474463</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.148011,-31.474463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 097 - Cabildo</name>
+        <description><![CDATA[Numero: 97<br>Direccion: Río Colorado & Macachin<br>Atencion: Atención 7 a 14:30 hs<br>Telefono: TE: 4343230<br>Longitud: -64.2345784<br>Latitud: -31.4890578<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>97.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value><![CDATA[Río Colorado & Macachin]]></value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14:30 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4343230</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2345784</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.4890578</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2345784,-31.4890578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 098 - Mercado de Abasto</name>
+        <description><![CDATA[Numero: 98<br>Direccion: Av. de la Semilleria s/n<br>Atencion: Atención 7 a 14 hs<br>Telefono: TE: 4969060<br>Longitud: -64.112198<br>Latitud: -31.395132<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>98.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Av. de la Semilleria s/n</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7 a 14 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 4969060</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.112198</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.395132</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.112198,-31.395132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 099 - Los Robles</name>
+        <description><![CDATA[Numero: 99<br>Direccion: Docentes Argentinos 5890<br>Atencion: Atencion<br>Telefono: TE:<br>Longitud: -64.2624685<br>Latitud: -31.4025916<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>99.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Docentes Argentinos 5890</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atencion</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE:</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2624685</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.4025916</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2624685,-31.4025916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 100 - Heroes de Malvinas</name>
+        <description><![CDATA[Numero: 100<br>Direccion: Direccion<br>Atencion: Atencion<br>Telefono: TE:<br>Longitud: -64.2511264<br>Latitud: -31.476027<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>100.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Direccion</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atencion</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE:</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2511264</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.476027</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2511264,-31.476027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS N° 101 - 12 de Julio</name>
+        <description><![CDATA[Numero: 101<br>Direccion: Manuel Lizondo Borda 6000<br>Atencion: Atencion<br>Telefono: TE:<br>Longitud: -64.2540959<br>Latitud: -31.3142923<br>IdIcono: 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>101.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Manuel Lizondo Borda 6000</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atencion</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE:</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2540959</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.3142923</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2540959,-31.3142923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DEM CENTRO</name>
+        <description><![CDATA[Numero: 102<br>Direccion: Domingo F. Sarmiento 450<br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.17581661<br>Latitud: -31.41192298<br>IdIcono: 2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>102.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Domingo F. Sarmiento 450</value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.17581661</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41192298</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>2.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.17581661,-31.41192298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DEM NORTE</name>
+        <description><![CDATA[Numero: 103<br>Direccion: Anacreonte esq. Jujuy <br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.18134577<br>Latitud: -31.37933113<br>IdIcono: 2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>103.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Anacreonte esq. Jujuy </value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.18134577</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.37933113</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>2.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.18134577,-31.37933113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DEM OESTE</name>
+        <description><![CDATA[Numero: 104<br>Direccion: Deán Gregorio Funes 2000<br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.20967554<br>Latitud: -31.40760885<br>IdIcono: 2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>104.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Deán Gregorio Funes 2000</value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.20967554</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.40760885</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>2.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.20967554,-31.40760885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSP. MUNICIPAL VILLA EL LIBERTADOR PPE DE ASTURIAS</name>
+        <description><![CDATA[Numero: 105<br>Direccion: Defensa 1200 <br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.21937581<br>Latitud: -31.46900843<br>IdIcono: 3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>105.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Defensa 1200 </value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.21937581</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.46900843</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>3.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.21937581,-31.46900843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSP. URGENCIAS</name>
+        <description><![CDATA[Numero: 106<br>Direccion: Catamarca 441<br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.17592637<br>Latitud: -31.41266607<br>IdIcono: 3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>106.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Catamarca 441</value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.17592637</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41266607</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>3.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.17592637,-31.41266607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSP. INFANTIL</name>
+        <description><![CDATA[Numero: 107<br>Direccion: Juan Antonio Lavalleja 3050<br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.1817355<br>Latitud: -31.37994147<br>IdIcono: 3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>107.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Juan Antonio Lavalleja 3050</value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.1817355</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.37994147</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>3.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.1817355,-31.37994147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEDICINA PREVENTIVA </name>
+        <description><![CDATA[Numero: 108<br>Direccion: Santa Rosa 360<br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.18734015<br>Latitud: -31.41104922<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>108.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Santa Rosa 360</value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.18734015</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41104922</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.18734015,-31.41104922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALIDAD ALIMENTARIA</name>
+        <description><![CDATA[Numero: 109<br>Direccion: San Martín 850, 1° Piso <br>Atencion: atención <br>Telefono: Telefono<br>Longitud: -64.17990714<br>Latitud: -31.40658168<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>109.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>San Martín 850, 1° Piso </value>
+          </Data>
+          <Data name="Atencion">
+            <value>atención </value>
+          </Data>
+          <Data name="Telefono">
+            <value>Telefono</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.17990714</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.40658168</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.17990714,-31.40658168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SERVICIO ODONTOLOGICO</name>
+        <description><![CDATA[Numero: 110<br>Direccion: San Martín 850<br>Atencion: Atención 7:30 a 17:30 hs<br>Telefono: TE: 3514342250<br>Longitud: -64.17990714<br>Latitud: -31.40658168<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>110.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>San Martín 850</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención 7:30 a 17:30 hs</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 3514342250</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.17990714</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.40658168</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.17990714,-31.40658168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PADRE LA MONACA</name>
+        <description><![CDATA[Numero: 111<br>Direccion: Estanislao Learte 653<br>Atencion: <br>Telefono: <br>Longitud: -64.13689926<br>Latitud: -31.41734186<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>111.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Estanislao Learte 653</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.13689926</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41734186</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.13689926,-31.41734186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EPIDEMIOLOGÍA</name>
+        <description><![CDATA[Numero: 112<br>Direccion: Sarmiento 450<br>Atencion: <br>Telefono: <br>Longitud: -64.1762461<br>Latitud: -31.41186618<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>112.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Sarmiento 450</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.1762461</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41186618</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.1762461,-31.41186618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE ASISTENCIA LAZOS</name>
+        <description><![CDATA[Numero: 113<br>Direccion: Castro Barros 559<br>Atencion: <br>Telefono: <br>Longitud: -64.19751172<br>Latitud: -31.40003464<br>IdIcono: 5]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>113.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Castro Barros 559</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.19751172</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.40003464</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>5.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.19751172,-31.40003464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO COMUNITARIO VILLA BUSTOS</name>
+        <description><![CDATA[Numero: 114<br>Direccion: Ancasti 5750<br>Atencion: Atención de 14:30 a 19:30 los Lunes y Viernes, y de 9 a 14 hs los Martes y Jueves<br>Telefono: TE: 3516100536<br>Longitud: -64.11154409<br>Latitud: -31.43940956<br>IdIcono: 5]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>114.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Ancasti 5750</value>
+          </Data>
+          <Data name="Atencion">
+            <value>Atención de 14:30 a 19:30 los Lunes y Viernes, y de 9 a 14 hs los Martes y Jueves</value>
+          </Data>
+          <Data name="Telefono">
+            <value>TE: 3516100536</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.11154409</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.43940956</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>5.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.11154409,-31.43940956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO COMUNITARIO ALDEAS</name>
+        <description><![CDATA[Numero: 115<br>Direccion: Gabriel Ortega 8035<br>Atencion: <br>Telefono: <br>Longitud: -64.2572613<br>Latitud: -31.3300849<br>IdIcono: 5]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>115.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Gabriel Ortega 8035</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.2572613</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.3300849</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>5.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.2572613,-31.3300849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO INTEGRAL DE SALUD DEPORTIVA MUNICIPAL</name>
+        <description><![CDATA[Numero: 116<br>Direccion: Roma 155<br>Atencion: <br>Telefono: <br>Longitud: -64.16365355<br>Latitud: -31.41313372<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>116.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Roma 155</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.16365355</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41313372</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.16365355,-31.41313372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LABORATORIO FARMACÉUTICO MUNICIPAL </name>
+        <description><![CDATA[Numero: 117<br>Direccion: Obispo Castellano 2175<br>Atencion: <br>Telefono: <br>Longitud: -64.14090423<br>Latitud: -31.43362193<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>117.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Obispo Castellano 2175</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.14090423</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.43362193</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.14090423,-31.43362193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SECRETARÍA DE PREVENCIÓN Y ATENCIÓN COMUNITARIA</name>
+        <description><![CDATA[Numero: 118<br>Direccion: 27 de Abril 757<br>Atencion: <br>Telefono: <br>Longitud: -64.19466873<br>Latitud: -31.41418174<br>IdIcono: 6]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>118.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>27 de Abril 757</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.19466873</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41418174</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>6.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.19466873,-31.41418174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SECRETARÍA DE SALUD</name>
+        <description><![CDATA[Numero: 119<br>Direccion: Av. Marcelo T. de Alvear 120<br>Atencion: <br>Telefono: <br>Longitud: -64.19104614<br>Latitud: -31.41588552<br>IdIcono: 6]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>119.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Av. Marcelo T. de Alvear 120</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.19104614</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41588552</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>6.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.19104614,-31.41588552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL PRONTA ATENCIÓN CURA BROCHERO </name>
+        <description><![CDATA[Numero: 120<br>Direccion: Av. Ricardo Rojas 6950<br>Atencion: <br>Telefono: <br>Longitud: -64.25606416<br>Latitud: -31.34019214<br>IdIcono: 3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>120.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Av. Ricardo Rojas 6950</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.25606416</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.34019214</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>3.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.25606416,-31.34019214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL PRONTA ATENCIÓN VILLA ADELA</name>
+        <description><![CDATA[Numero: 121<br>Direccion: Av. Fuerza Aerea Argentina 5085<br>Atencion: <br>Telefono: <br>Longitud: -64.252843<br>Latitud: -31.433377<br>IdIcono: 3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>121.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Av. Fuerza Aerea Argentina 5085</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.252843</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.433377</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>3.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.252843,-31.433377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL PRONTA ATENCIÓN COMIPAS</name>
+        <description><![CDATA[Numero: 122<br>Direccion: Av. del Trabajo 830<br>Atencion: <br>Telefono: <br>Longitud: -64.16458146<br>Latitud: -31.39362591<br>IdIcono: 3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>122.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Av. del Trabajo 830</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.16458146</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.39362591</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>3.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.16458146,-31.39362591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL PRONTA ATENCIÓN CAMPO LA RIBERA</name>
+        <description><![CDATA[Numero: 123<br>Direccion: Int. Ramón B. Mestre 5580<br>Atencion: <br>Telefono: <br>Longitud: -64.14940402<br>Latitud: -31.41802081<br>IdIcono: 3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>123.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Int. Ramón B. Mestre 5580</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.14940402</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.41802081</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>3.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.14940402,-31.41802081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ODONTOLOGICO 24 HS</name>
+        <description><![CDATA[Numero: 124<br>Direccion: Av. Colón 4782<br>Atencion: <br>Telefono: <br>Longitud: -64.24168067<br>Latitud: -31.39574567<br>IdIcono: 4]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="Numero">
+            <value>124.0</value>
+          </Data>
+          <Data name="Direccion">
+            <value>Av. Colón 4782</value>
+          </Data>
+          <Data name="Atencion">
+            <value/>
+          </Data>
+          <Data name="Telefono">
+            <value/>
+          </Data>
+          <Data name="Longitud">
+            <value>-64.24168067</value>
+          </Data>
+          <Data name="Latitud">
+            <value>-31.39574567</value>
+          </Data>
+          <Data name="IdIcono">
+            <value>4.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.24168067,-31.39574567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
