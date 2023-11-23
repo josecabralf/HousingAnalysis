@@ -15,3 +15,5 @@ path_unify = '../Data/Unificadas/'
 anteriores = '../Data/Anteriores/'
 actuales = '../Data/actuales.csv'
 train = '../Data/train.csv'
+
+all = "../Data/all.csv"
