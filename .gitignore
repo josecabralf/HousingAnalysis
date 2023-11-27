@@ -1,0 +1,3 @@
+# Ignorar carpeta y archivos específicos
+src/utils/models/
+*.joblib

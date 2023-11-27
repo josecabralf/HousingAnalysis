@@ -17,3 +17,6 @@ actuales = '../Data/actuales.csv'
 train = '../Data/train.csv'
 
 all = "../Data/all.csv"
+
+ensamble_precio_model = "./utils/models/ensemble_model.joblib"
+scaler_precio_model = "./utils/models/scaler.joblib"
