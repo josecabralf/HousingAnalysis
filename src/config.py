@@ -18,5 +18,5 @@ train = '../Data/train.csv'
 
 all = "../Data/all.csv"
 
+kmeans_model = "./utils/models/kmeans.joblib"
 ensamble_precio_model = "./utils/models/ensemble_model.joblib"
-scaler_precio_model = "./utils/models/scaler.joblib"
