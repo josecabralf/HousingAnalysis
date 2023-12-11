@@ -22,7 +22,7 @@ all = "../Data/all.csv"
 kmeans_model = "./utils/models/kmeans.joblib"
 kmeans_scaler = './utils/models/scalers/kmeans_scaler.joblib'
 
-ensamble_precio_model = "./utils/models/ensemble_model.joblib"
-ensamble_precio_scaler = './utils/models/scalers/ensamble_scaler.joblib'
+ensamble_precio_model = "../models/ensemble_model.joblib"
+ensamble_precio_scaler = '../models/scalers/ensamble_scaler.joblib'
 
-adaboost_corrector_model = "./utils/models/adaboost_corrector.joblib"
+adaboost_corrector_model = "../models/adaboost_corrector.joblib"
